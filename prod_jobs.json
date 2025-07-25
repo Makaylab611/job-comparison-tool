@@ -1,0 +1,12 @@
+{
+    "jobA": {
+        "command": "run_script.sh",
+        "owner": "prod_user",
+        "machine": "prod-server"
+    },
+    "jobC": {
+        "command": "archive_data.sh",
+        "owner": "prod_ops",
+        "machine": "prod-server"
+    }
+}
