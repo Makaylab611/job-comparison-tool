@@ -1,0 +1,12 @@
+{
+    "jobA": {
+        "command": "run_script.sh",
+        "owner": "dev_user",
+        "machine": "dev-server"
+    },
+    "jobB": {
+        "command": "sync_data.sh",
+        "owner": "dev_ops",
+        "machine": "dev-server"
+    }
+}
