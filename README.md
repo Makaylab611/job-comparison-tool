@@ -1,5 +1,3 @@
-# job-comparison-tool
-
 # Job Comparison Tool
 
 🛠️ A Python-based tool that compares job definitions across environments (DEV, UAT, PROD) to identify discrepancies.
